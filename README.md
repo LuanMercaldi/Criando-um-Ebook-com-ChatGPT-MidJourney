@@ -60,7 +60,7 @@ Projeto com o objetivo de me ajudar a criar um E-Book do zero com um layout rico
     />
     <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/Strighnight">
+    <a href="https://github.com/LuanMercaldi">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/luan-willian-ponchio-mercaldi-88080890/">LinkedIn</a>
 </p>
